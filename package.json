@@ -16,9 +16,9 @@
     "preline": "^2.0.3",
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^9.0.1",
-    "vue": "^2.7.14",
+    "vue": "^3.5.32",
     "vue-router": "^3.6.5",
-    "vuex": "^3.6.2"
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-legacy": "^4.1.1",
